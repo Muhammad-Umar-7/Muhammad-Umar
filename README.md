@@ -18,13 +18,6 @@ Skills: HTML / CSS / PYTHON / TABLEAU / MYSQL / DEEP LEARNING
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Muhammad Umar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Muhammad Umar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Muhammad Umar Usmani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Osmanis_here/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Pro editor )  
 
-
-
-
-I'm Muhammad Umar from Pakistan, a dedicated Data Scientist with expertise in extracting insights from data to drive innovation. Alongside, I leverage digital marketing strategies to amplify business growth, while excelling in clear and impactful business communication. Let's collaborate and create data-driven solutions!"
-
-<h3 align="center">A passionate Business Communicator from Pakistan</h3>
-
 <img align="right" alt="coding"width="400" src="https://www.canva.com/design/DAGSgJ3nl-Q/YAEFduDM3n2zGeO9QzpTyg/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ"> 
 
 <h3 align="left">Connect with me:</h3>
