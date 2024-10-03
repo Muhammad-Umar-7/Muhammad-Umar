@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
+Hi thee 👋
+I'm Muhammad Umar from Pakistan, a dedicated Data Scientist with expertise in extracting insights from data to drive innovation. Alongside, I leverage digital marketing strategies to amplify business growth, while excelling in clear and impactful business communication. Let's collaborate and create data-driven solutions!"
+
 <h3 align="center">A passionate Business Communicator from Pakistan</h3>
 
-<img align="right" alt="coding"width="400" src="https://images.app.goo.gl/E9y4v5KeYyQZz1aDA"> 
+<img align="right" alt="coding"width="400" src="https://www.canva.com/design/DAGSgJ3nl-Q/YAEFduDM3n2zGeO9QzpTyg/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-umar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-umar" /> </p>
 
