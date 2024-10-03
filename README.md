@@ -1,7 +1,24 @@
-Hi thee 👋
+### Hi there 👋, Muhammad Umar
+#### Data Scientist, Digital Marketer and Business Communicator
+![Data Scientist, Digital Marketer and Business Communicator](https://www.canva.com/design/DAGSgJ3nl-Q/FbSK9wuq_-IoyaaHmwA2Fw/watch?utm_content=DAGSgJ3nl-Q&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I'm Muhammad Umar from Pakistan, a dedicated Data Scientist with expertise in extracting insights from data to drive innovation. Alongside, I leverage digital marketing strategies to amplify business growth, while excelling in clear and impactful business communication. Let's collaborate and create data-driven solutions!"
+
+Skills: HTML / CSS / PYTHON / TABLEAU / MYSQL / DEEP LEARNING
+
+- 🔭 I’m currently working on AI and Machine learning 
+- 🌱 I’m currently learning computer vision 
+- 👯 I’m looking to collaborate on Digital skills 
+- 🤔 I’m looking for help with deep learning and computer vision 
+- 💬 Ask me about Natural herbs  Saler 
+- 📫 How to reach me: https://github.com/Muhammad-Umar-7/Muhammad-Umar/blob/main/README.md 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: 🤔I'm a Funny  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Muhammad Umar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Muhammad Umar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Muhammad Umar Usmani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Osmanis_here/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Pro editor )  
+
+
 
 
 I'm Muhammad Umar from Pakistan, a dedicated Data Scientist with expertise in extracting insights from data to drive innovation. Alongside, I leverage digital marketing strategies to amplify business growth, while excelling in clear and impactful business communication. Let's collaborate and create data-driven solutions!"
